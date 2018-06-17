@@ -1,3 +1,3 @@
 # YelpCamp
 
-### Refactored by Ian Schoonover
+### Guided to be made by Scratch by Colt Steele During Web Development Bootcamp
